@@ -10,7 +10,7 @@ import Contact from './services/contact/Contact';
 import Footer from './footer/Footer';
 import Scroll from './scroll/Scroll';
 import Projects from './projects/Projects';
-
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
   return (
